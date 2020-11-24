@@ -10,4 +10,6 @@ Este é um repositório que ere como desafio para quem leu o Tutorial de Git e G
 
 ## Link para o Tutorial: 
 
+https://edu.ieee.org/br-ufcgras/tutoriais/
+
 
